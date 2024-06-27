@@ -63,11 +63,11 @@ canvas {
   }
 
   .feature-text {
-    @apply text-gray max-w-md text-lg md: text-xl font-semibold opacity-0 translate-y-[100px]
+    @apply text-gray max-w-md text-lg md:text-xl font-semibold opacity-0 translate-y-[100px]
   }
 
   .feature-text-container {
-    @apply w-full flex-center flex-col md: flex-row mt-10 md:mt-16 gap-5
+    @apply w-full flex-center flex-col md:flex-row mt-10 md:mt-16 gap-5
   }
 
   .feature-video {
@@ -75,7 +75,7 @@ canvas {
   }
 
   .feature-video-container {
-    @apply w-full flex flex-col md: flex-row gap-5 items-center
+    @apply w-full flex flex-col md:flex-row gap-5 items-center
   }
 
   .link {
@@ -91,11 +91,11 @@ canvas {
   }
 
   .hiw-title {
-    @apply text-4xl md: text-7xl font-semibold text-center
+    @apply text-4xl md:text-7xl font-semibold text-center
   }
 
   .hiw-subtitle {
-    @apply text-gray font-semibold text-xl md: text-2xl py-10 text-center
+    @apply text-gray font-semibold text-xl md:text-2xl py-10 text-center
   }
 
   .hiw-video {
@@ -103,15 +103,15 @@ canvas {
   }
 
   .hiw-text-container {
-    @apply flex md: flex-row flex-col justify-between items-start gap-24
+    @apply flex md:flex-row flex-col justify-between items-start gap-24
   }
 
   .hiw-text {
-    @apply text-gray text-xl font-normal md: font-semibold
+    @apply text-gray text-xl font-normal md:font-semibold
   }
 
   .hiw-bigtext {
-    @apply text-white text-3xl md: text-5xl font-normal md:font-semibold my-2
+    @apply text-white text-3xl md:text-5xl font-normal md:font-semibold my-2
   }
 
   .video-carousel_container {
